@@ -4,7 +4,7 @@ Lists that are used by services provided by Heave to block access to certain web
 
 We are open to any PRs that add new lists or improve existing ones.
 
-## Lists
+## Lists
 
 > Lists are collected from various repositories and sources. We do not own any of the lists.
 
@@ -21,7 +21,7 @@ We are open to any PRs that add new lists or improve existing ones.
 - The domains are not suffixed with `/`.
 - All subdomains can be blocked by adding `.domain.com` to the list (the base domain will be blocked as well).
 
-## Sources
+## Sources
 
 - [StevenBlack/hosts](https://github.com/StevenBlack/hosts)
 - [blocklistproject/lists](https://github.com/blocklistproject/lists)
